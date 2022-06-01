@@ -1,8 +1,8 @@
 Author: Graham Smith
 Date of Assignment: June 1, 2022
 Cohort: Summer 2022 GW Coding Bootcamp
-Website Link:
-GitHub Link: 
+Website Link: https://gsmith560.github.io/Mod2HW/#Contact-Me
+GitHub Link: https://github.com/gsmith560/Mod2HW
 
 
 Assignment Description:
@@ -23,7 +23,7 @@ THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
   
-Goal: Make a website similar in appearance and functionality to the provided example
+Goal: Make a website similar in appearance and functionality to the provided example:
 ![02-advanced-css-homework-demo](https://user-images.githubusercontent.com/105388018/171502100-a66a8348-c0a5-4d62-8524-1bd7b28199ad.gif)
 
 Resources Used for Assistance:
