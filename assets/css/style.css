@@ -149,8 +149,8 @@ header nav ul li a:hover {
 /* end of copied code */
 
 .first-project {
-  background-image: url(../images/bluequestion.png);
-  background-size: cover;
+  background-image: url(../images/movie2.png);
+  background-size: fixed;
   border: white;
   position: relative;
   width: 300px;
