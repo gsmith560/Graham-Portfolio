@@ -149,13 +149,13 @@ header nav ul li a:hover {
 /* end of copied code */
 
 .first-project {
-  background-image: url(../images/movie2.png);
+  background-image: url(../images/red3.jpg);
   background-size: fixed;
   border: white;
   position: relative;
   width: 300px;
   height: 400px;
-
+  color: azure;
 }
 
 .first-project:hover {
@@ -163,12 +163,13 @@ header nav ul li a:hover {
 }
 
 .second-project {
-  background-image: url(../images/purplequestion.jpg);
+  background-image: url(../images/Screen\ Shot\ 2022-08-18\ at\ 4.46.37\ PM.png);
   background-size: cover;
   border: white;
   position: relative;
   width: 300px;
   height: 400px;
+  color:azure
 }
 
 .second-project:hover {
